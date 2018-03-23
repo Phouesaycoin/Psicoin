@@ -1,5 +1,6 @@
 # Psicoin
 psicoin open source code
+
 Psicoin has a total circulation of 300 million and a pre-excavation of 150 million. It USES highly innovative "Pow + Pos + evm" technology to successfully develop the world's leading fifth-generation cryptographic digital currency chain, Pom's intelligent contract technology and distributed ledger. The concept of a distributed calculator + virtual world computer is undoubtedly a groundbreaking initiative that makes the digital currency more transparent, with retrospective and fault tolerance. It perfectly realizes the ecological compatibility of BTC and ETH. It is more suitable for various financial life scenarios and will become a real business society. Closely related to the block chain world!
 Currency introduction
 Psicoin is a distributed distributed general ledger protocol based on blockchain technology. It forms digital assets through the digital physics world and is registered, transmitted and placed through peer-to-peer networks.
